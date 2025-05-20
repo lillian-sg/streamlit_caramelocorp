@@ -9,6 +9,8 @@
 
 # 🐶 Caramelo Corp
 
+
+Projeto de conclusão de curso do programa **[Re/Start² com IA](https://www.escoladanuvem.org/)**, promovido pela [Escola da Nuvem](https://www.escoladanuvem.org/).
 Como um pet: ouvimos com amor, sem preconceito, sempre ao seu lado.
 
 Caramelo Corp é uma aplicação web feita com [Streamlit](https://streamlit.io/) e inteligência artificial (Claude Sonnet) para identificar sinais de bullying em textos e áudios enviados por adolescentes de forma anônima. O sistema roda em uma instância EC2 da AWS e visa oferecer uma escuta ativa, segura e acolhedora no ambiente escolar.
